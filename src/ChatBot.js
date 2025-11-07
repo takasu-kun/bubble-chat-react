@@ -18,11 +18,11 @@ export default function ChatBot() {
   const [input, setInput] = useState('');
   const [faqData, setFaqData] = useState([]);
   const [config] = useState({
-    botName: 'FAQ Assistant',
-    welcomeMessage: 'Hi! How can I help you today? Ask me anything from our FAQ.',
+    botName: 'Chat Assistant',
+    welcomeMessage: 'Hi! How can I help you today?',
     primaryColor: '#3b82f6',
     position: 'bottom-right',
-    notFoundMessage: "I'm sorry, I couldn't find an answer to that question in our FAQ. Please contact our support team at support@example.com or call 1-800-123-4567 for assistance."
+    notFoundMessage: "I'm sorry, I couldn't find an answer to that question in our FAQ. Please contact our support team at support-sample@netsuite.com or call 1-xxx-xxx for assistance."
   });
   const messagesEndRef = useRef(null);
 
