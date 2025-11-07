@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "question": "What are your business hours?",
+    "answer": "We are open Monday to Friday, 9 AM to 6 PM EST. We're closed on weekends and major holidays.",
+    "tags": [
+      "hours",
+      "time",
+      "open",
+      "close",
+      "schedule",
+      "when",
+      "available"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How do I reset my password?",
+    "answer": "To reset your password: 1) Click 'Forgot Password' on the login page, 2) Enter your email address, 3) Check your email for a reset link, 4) Click the link and create a new password.",
+    "tags": [
+      "password",
+      "reset",
+      "forgot",
+      "login",
+      "access",
+      "account",
+      "credentials"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day money-back guarantee. Items must be unused and in original packaging. Contact our support team to initiate a return. Refunds are processed within 5-7 business days.",
+    "tags": [
+      "return",
+      "refund",
+      "money back",
+      "exchange",
+      "policy",
+      "guarantee",
+      "warranty"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping (2-3 days) and overnight shipping are also available at checkout for an additional fee.",
+    "tags": [
+      "shipping",
+      "delivery",
+      "ship",
+      "transport",
+      "mail",
+      "send",
+      "arrive",
+      "fast"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping typically takes 7-14 business days. Customs fees may apply depending on your country.",
+    "tags": [
+      "international",
+      "worldwide",
+      "global",
+      "overseas",
+      "country",
+      "abroad",
+      "foreign"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach us via: Email at support@example.com, Phone at 1-800-123-4567, or Live chat on our website during business hours.",
+    "tags": [
+      "contact",
+      "support",
+      "help",
+      "customer service",
+      "phone",
+      "email",
+      "reach",
+      "call"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, Mastercard, Amex, Discover), PayPal, Apple Pay, Google Pay, and bank transfers.",
+    "tags": [
+      "payment",
+      "pay",
+      "credit card",
+      "paypal",
+      "visa",
+      "mastercard",
+      "checkout",
+      "billing"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Do you offer discounts or promotions?",
+    "answer": "Yes! Subscribe to our newsletter for exclusive discounts. We also run seasonal sales and offer 10% off your first order when you create an account.",
+    "tags": [
+      "discount",
+      "promo",
+      "promotion",
+      "sale",
+      "coupon",
+      "deal",
+      "offer",
+      "savings"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking number via email. You can also track your order by logging into your account and visiting the 'Orders' section.",
+    "tags": [
+      "track",
+      "tracking",
+      "order",
+      "shipment",
+      "status",
+      "where",
+      "package",
+      "delivery"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 2 hours of placement. After that, the order is processed and cannot be changed. Contact support immediately if you need assistance.",
+    "tags": [
+      "cancel",
+      "modify",
+      "change",
+      "edit",
+      "order",
+      "update",
+      "remove"
+    ]
+  }
+]
